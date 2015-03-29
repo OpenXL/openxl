@@ -1,0 +1,10 @@
+________________________________________________________________________________
+
+XL License
+________________________________________________________________________________
+
+Copyright (c) 2015 Daniel Markus
+All rights reserved.
+
+This is proprietary code not for public use. Later versions may likely be open
+source.
